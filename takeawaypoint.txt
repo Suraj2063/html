@@ -1,0 +1,20 @@
+format document with
+   install prettier extension
+   right click>>format document with >> configure default format >> prettier
+   go to settings >> settings>> search format on save >> check format on save
+
+
+   block element 
+      always starts from new line
+      consume whole horizontal space
+      p , h, div .....
+
+
+   inline element
+      starts from available space
+      consume space as much as it required
+      span , a 
+
+br tag to break a line
+hr tag to make a horizontal line
+button tag to add button
